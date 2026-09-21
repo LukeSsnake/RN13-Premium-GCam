@@ -33,11 +33,12 @@ O objetivo desta configuração é proporcionar uma imagem mais refinada, com ap
 
 # 📥 Instalação
 
-1. Instale a versão [SGCAM 8.4.400.42 XXX STABLE V43]( ).
-2. Baixe o arquivo [📱RN13_Premium✨.xml](https://github.com/LukeSsnake/RN13-Premium-GCam/releases/download/v1.0/RN13_Premium.xml).
-3. Coloque o XML na pasta de configurações da GCam.
-4. Abra a GCam e carregue o XML.
-5. Reinicie a GCam após aplicar a configuração.
+1. Instale a versão [SGCAM 8.4.400.42 XXX STABLE V43](https://github.com/LukeSsnake/RN13-Premium-GCam/releases/download/v1.0/SGCAM_8.4.400.42.XXX_STABLE_V43.apk).
+2. Baixe o arquivo
+   [📱RN13_Premium✨.xml](https://github.com/LukeSsnake/RN13-Premium-GCam/releases/download/v1.0/RN13_Premium.xml).
+5. Coloque o XML na pasta de configurações da GCam.
+6. Abra a GCam e carregue o XML.
+7. Reinicie a GCam após aplicar a configuração.
 
 # ⚠️ Importante
 
